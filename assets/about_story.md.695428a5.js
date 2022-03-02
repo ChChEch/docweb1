@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a,a as o}from"./app.b1f1f4a3.js";const m='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"about/story.md","lastUpdated":1644846005762}',s={},r=o("p",null,"fill text",-1),c=[r];function n(_,p,d,l,i,f){return a(),e("div",null,c)}var h=t(s,[["render",n]]);export{m as __pageData,h as default};
